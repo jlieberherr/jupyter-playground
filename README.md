@@ -1,2 +1,2 @@
-# jupyter-trials
-jupyter-notebooks with trials and ideas
+# jupyter-playground
+Small jupyter-notebooks to try out simple things
